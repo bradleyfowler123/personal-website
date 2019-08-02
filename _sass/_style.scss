@@ -2507,7 +2507,8 @@ body {
   .header-back {
     height: 470px;
     width: 100%;
-    background-position: 50% 0;
+    background-position: center top;
+    background-size: cover;
     background-repeat:  no-repeat;
   }
   .carousel {
