@@ -24,15 +24,19 @@
   tpl: projects.html
   css: project
 
-- id: blog
-  i18n: nav.blog
-  name: Blog
-  tpl: blog.html
-  page: blog/
-  css: testimonials navy-section
+#- id: blog
+#  i18n: nav.blog
+#  name: Blog
+#  tpl: blog.html
+#  page: blog/
+#  css: testimonials navy-section
+- id: awards
+  name: Awards
+  tpl: awards.html
+  css: timeline
 
 - id: links
   i18n: nav.link
-  name: Links
+  name: Contact #Links
   tpl: links.html
-  css: contact
+  css: #contact

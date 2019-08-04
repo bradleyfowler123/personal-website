@@ -2,5 +2,61 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 100, 35, 65, 80, 70, 90, 50
+
+languages:
+    competent:
+        - name: Python
+          image: python.png
+          size: vsmall
+        - name: TensorFlow
+          image: tensorflow.png
+          size: vsmall
+        - name: HTML
+          image: html.png
+          size: small
+        - name: Node
+          image: node.png
+          size: small
+
+    familiar:
+        - name: Java
+          image: java.png
+          size: vsmall
+        - name: Swift
+          image: swift.png
+          size: vsmall
+        - name: Matlab
+          image: matlab.png
+          size: vsmall
+        - name: C++
+          image: c++.png
+          size: vsmall
+        - name: Mysql
+          image: mysql.png
+          size: vsmall
+
+tools:
+    competent:
+        - name: AWS
+          image: aws.png
+          size: vsmall
+        - name: GitHub
+          image: github.png
+          size: vsmall
+        - name: Bash (Linux)
+          image: bash.png
+          size: small
+        - name: Vim
+          image: vim.png
+          size: small
+        - name: LaTeX
+          image: latex.png
+          size: vsmall
+
+    familiar:
+        - name: Virtual Box
+          image: vbox.png
+          size: small
+        - name: Docker
+          image: docker.png
+          size: small
