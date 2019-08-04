@@ -1,0 +1,71 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Scope
+    i18n: company_a
+  desc:
+    detail: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.<br/>· Designed and trained both Supervised and Unsupervised Learning algorithms for News Clustering, Topic Classification, Sentiment Analysis and Summarisation.<br/>· Implemented Deep Learning architectures such as CNNs & RNNs; also classical methods such as Random Forest.<br/>· Deployed algorithms to the cloud using Amazon Web Services (AWS), running in real time.<br/>· Accepted onto competitive Cambridge Judge Business School Accelerator Programme.<br/>· Won place at finale of national competition Pitch@Palace. Pitched to senior execs and royalty at St James’s Palace.<br/>· Acquired client for news data service with one more in the pipeline.<br/>· Built team, persuading two interns to collaborate on the project.
+    i18n: company_a_desc
+  date:
+    detail: September 2018 - Present
+    i18n: company_a_date
+  job:
+    detail: CEO / Founder
+    i18n: company_a_job
+  icon: fa-briefcase
+  logo: scope.png
+
+- name:
+    detail: Anidium
+  desc:
+    detail: Anidium develops a wearable wrist watch to predict the presence of heart conditions.<br/>· Solely developed their supervised Deep Learning algorithm; achieved accuracy of 95%.<br/>· Deployed Deep Learning algorithm to the cloud using cutting edge AWS serverless technology.<br/>· Integrated Deep Learning cloud deployment into an IOS application.
+  date:
+    detail: June 2018 - Present
+  job:
+    detail: AI and Software Consultant
+  icon: fa-briefcase
+  logo: cjbs.png
+
+- name:
+    detail: Legal Sphere
+  desc:
+    detail: TODO
+  date:
+    detail: June 2018 - Present
+  job:
+    detail: Software Consultant
+  icon: fa-briefcase
+  logo: legalsphere.png
+
+- name:
+    detail: The Technology Partnership
+  desc:
+    detail: TODO
+  date:
+    detail: June 2018 - Present
+  job:
+    detail: Software Consultant
+  icon: fa-briefcase
+  logo: ttp.jpeg
+
+- name:
+    detail: Cubica Technology
+  desc:
+    detail: TODO
+  date:
+    detail: June 2018 - Present
+  job:
+    detail: Software Consultant
+  icon: fa-briefcase
+  logo: cubica.png
+
+- name:
+    detail: Royal Air Force
+  desc:
+    detail: TODO
+  date:
+    detail: June 2018 - Present
+  job:
+    detail: Software Consultant
+  icon: fa-briefcase
+  logo: raf.jpeg
