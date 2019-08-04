@@ -5,22 +5,34 @@
             <h1><span data-i18n="skills.my_skills">My Skills</span></h1>
         </div>
     </div>
+
     <div class="row features-block">
 		<h2>Languages &amp; Frameworks</h2>
 		<div class="row-align">
-			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/python.png">
-			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/tensorflow.png">
-			<img class="img-responsive wrapper img-small" src="/static/assets/img/skill/html.png">
-			<img class="img-responsive wrapper img-small" src="/static/assets/img/skill/node.png">
+			{% for skill in site.data.index.skills.languages.competent %}
+				<img class="img-responsive wrapper img-{{ skill.size }}" src="/static/assets/img/skill/{{ skill.image }}">
+			{% endfor %}
 		</div>
 		<!-- smaller row -->
 		<div class="row-align">
-			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/java.png">
-			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/swift.png">
-			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/matlab.png">
-			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/c++.png">
-			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/mysql.png">
+			{% for skill in site.data.index.skills.languages.familiar %}
+				<img class="img-responsive wrapper img-{{ skill.size }}" src="/static/assets/img/skill/{{ skill.image }}">
+			{% endfor %}
 		</div>
+    </div>
+
+    <div class="row features-block">
 		<h2>Applications &amp; Tools</h2>
+		<div class="row-align">
+			{% for skill in site.data.index.skills.tools.competent %}
+				<img class="img-responsive wrapper img-{{ skill.size }}" src="/static/assets/img/skill/{{ skill.image }}">
+			{% endfor %}
+		</div>
+		<!-- smaller row -->
+		<div class="row-align">
+			{% for skill in site.data.index.skills.tools.familiar %}
+				<img class="img-responsive wrapper img-{{ skill.size }}" src="/static/assets/img/skill/{{ skill.image }}">
+			{% endfor %}
+		</div>
 	<div>
 <div>
