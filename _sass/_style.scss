@@ -2651,9 +2651,18 @@ body {
       background: #3385FF;
     }
   }
+  .img-vsmall {
+    height: 44px;
+  }
   .img-small {
     height: 88px;
-    width: 88px;
+//    width: 88px;
+  }
+  .img-medium {
+    height: 132px;
+  }
+  .img-large {
+    height: 198px;
   }
   .btn-primary {
     font-weight: 600;

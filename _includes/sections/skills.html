@@ -6,38 +6,21 @@
         </div>
     </div>
     <div class="row features-block">
-        <div class="wow zoomIn col-lg-6 col-lg-offset-3">
-            <canvas id="{{ site.data.index.skills.id }}" height="500" width="500"></canvas>
-        </div>
-        <div class="col-lg-1"></div>
-        <script>
-        var ctx = document.getElementById("{{ site.data.index.skills.id }}");
-        var data = {
-            labels: "{{ site.data.index.skills.aspects }}".split(","),
-            datasets: [{
-                label: "{{ site.data.index.skills.label }}",
-                backgroundColor: "rgba(179,181,198,0.2)",
-                borderColor: "#3385FF",
-                pointBackgroundColor: "#3385FF",
-                pointBorderColor: "#fff",
-                pointHoverBackgroundColor: "#3385FF",
-                pointHoverBorderColor: "#3385FF",
-                data: [{{ site.data.index.skills.percentage }}]
-                }]
-        };
-        var myRadarChart = new Chart(ctx, {
-            type: 'radar',
-            data: data,
-            options: {
-                scale: {
-                    responsive: true,
-                    ticks: {min: 0, max: 100},
-                    lineArc: false,
-                    pointLabels: {fontSize: 14},
-                },
-                legend: {display: false},
-            }
-        });
-        </script>
-    </div>
-</div>
+		<h2>Languages &amp; Frameworks</h2>
+		<div class="row-align">
+			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/python.png">
+			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/tensorflow.png">
+			<img class="img-responsive wrapper img-small" src="/static/assets/img/skill/html.png">
+			<img class="img-responsive wrapper img-small" src="/static/assets/img/skill/node.png">
+		</div>
+		<!-- smaller row -->
+		<div class="row-align">
+			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/java.png">
+			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/swift.png">
+			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/matlab.png">
+			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/c++.png">
+			<img class="img-responsive wrapper img-vsmall" src="/static/assets/img/skill/mysql.png">
+		</div>
+		<h2>Applications &amp; Tools</h2>
+	<div>
+<div>
