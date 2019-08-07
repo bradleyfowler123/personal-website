@@ -1,22 +1,35 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Scope 
+  url: https://scopenews.co.uk/get
+  video: me.
+  img: /static/assets/img/project/scope.png
+  desc: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI. 
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: CERNConnect
+  img: /static/assets/img/project/cern.png
+  video: https://youtu.be/apLdVG66aR8
+  desc: Contracted by CERN to commercially develop our project from a hackathon held at their Geneva headquarters. The system consists of an intelligent matching engine which links people with projects using natural language processing techniques, machine learning, and an intuitive user interface.
 
-- name: Google
-  i18n: google
-  url: https://google.com
+- name: SudoHack 
+  url: https://youtube.com
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars, which then communicate with each other via Bluetooth low-energy to then pass the signal over the LoRa network such that it can be processed on the internet. We placed second in the competition. 
+
+- name: Gecko 
+  gh_user: bradleyfowler123
+  repo: gecko
+  img: /static/assets/img/project/gecko.png
+  desc: Gecko is a social application for the people of Cambridge, helping you to discover interesting local events and activities. Connect the service with Facebook in order to see what your friends are interested in, and their upcoming agenda! 
+
+- name: Drone
+  gh_user: bradleyfowler123
+  repo: quadcopter 
+  img: /static/assets/img/project/drone.png
+  desc: I led a small team that designed and built a multi rotor UAV from scratch that can be controlled via a smart phone app with augmented reality. This covered everything from the mechanical, electrical and software design and build. We also secured £500 funding from the University of Cambridge Engineering Department. 
+
+- name: IDP
+  img: /static/assets/img/project/idp.png
+  video: https://youtu.be/xgSk-cqfVlk?t=15
+  desc: The task is to build and design an autonomous guided vehicle to collect, identify and deliver different crackers to their corresponding trays. I was sole software engineer of the 6 man team, writing algorithms for line following, identification and control. 

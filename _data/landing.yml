@@ -6,10 +6,21 @@
   tpl: about.html
   css:
 
+- id: projects
+  i18n: nav.projects
+  name: Projects
+  tpl: projects.html
+  css: project
+
 - id: career
   i18n: nav.career
   name: Career
   tpl: career.html
+  css: timeline
+
+- id: awards
+  name: Awards
+  tpl: awards.html
   css: timeline
 
 - id: skills
@@ -18,22 +29,12 @@
   tpl: skills.html
   css: team
 
-- id: projects
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
-  css: project
-
 #- id: blog
 #  i18n: nav.blog
 #  name: Blog
 #  tpl: blog.html
 #  page: blog/
 #  css: testimonials navy-section
-- id: awards
-  name: Awards
-  tpl: awards.html
-  css: timeline
 
 - id: links
   i18n: nav.link
