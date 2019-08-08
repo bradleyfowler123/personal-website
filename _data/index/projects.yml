@@ -6,7 +6,7 @@
   video: static/assets/video/project/scope.mp4
   sound: true
   img: /static/assets/img/project/scope.png
-  desc: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI. 
+  desc: Scope is busting the information bubble by exposing diversity of opinion on the breaking news headlines through AI. It is a news platform (Android, IOS & Web) that aggregates multimedia breaking news content from across the globe. It utilises machine learning to group all of the content about the same headline together. Providing you with a diversity of opinion to help you combat fake news and bias. 
 
 - name: CERNConnect
   img: /static/assets/img/project/cern.png
@@ -14,23 +14,21 @@
   desc: Contracted by CERN to commercially develop our project from a hackathon held at their Geneva headquarters. The system consists of an intelligent matching engine which links people with projects using natural language processing techniques, machine learning, and an intuitive user interface.
 
 - name: SudoHack 
-  url: https://youtube.com
-  img: /static/assets/img/landing/google.png
-  desc: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars, which then communicate with each other via Bluetooth low-energy to then pass the signal over the LoRa network such that it can be processed on the internet. We placed second in the competition. 
+  img: /static/assets/img/project/allia.png
+  desc: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars, which then communicate with each other via Bluetooth low-energy to then pass a signal over the LoRa network such that it can be processed on the internet. We placed second in the competition. 
 
 - name: Gecko 
-  gh_user: bradleyfowler123
-  repo: gecko
+  url: //TODO google play store
+  repo: https://github.com/bradleyfowler123/gecko TODO
   img: /static/assets/img/project/gecko.png
   desc: Gecko is a social application for the people of Cambridge, helping you to discover interesting local events and activities. Connect the service with Facebook in order to see what your friends are interested in, and their upcoming agenda! 
 
 - name: Drone
-  gh_user: bradleyfowler123
-  repo: quadcopter 
-  img: /static/assets/img/project/drone.png
-  desc: I led a small team that designed and built a multi rotor UAV from scratch that can be controlled via a smart phone app with augmented reality. This covered everything from the mechanical, electrical and software design and build. We also secured £500 funding from the University of Cambridge Engineering Department. 
+  repo: https://github.com/bradleyfowler123/gecko TODO
+  img: /static/assets/img/project/drone.jpg
+  desc: A multi rotor UAV controlled via `First Person View` from a smartphone within a VR headset. A live feed from a camera placed on the drone is relayed to the headset and the drone can be controlled by simple head turns. I led a small team to build this from scratch covering the mechanical, electrical and software design and build. We secured £500 funding from the University of Cambridge Engineering Department. 
 
-- name: IDP
+- name: Autonomous Robot
   img: /static/assets/img/project/idp.png
   video: static/assets/video/project/idp.mp4
-  desc: The task is to build and design an autonomous guided vehicle to collect, identify and deliver different crackers to their corresponding trays. I was sole software engineer of the 6 man team, writing algorithms for line following, identification and control. 
+  desc: Our task was to build and design an autonomous guided vehicle to collect, identify and deliver different crackers to their corresponding trays. I was sole software engineer of the six person team, writing algorithms for line following, identification and control. 
