@@ -2721,6 +2721,12 @@ body {
     &.comments {
       padding-bottom: 80px;
     }
+	 &.project {
+		.container > .crow {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+		}
+	}
   }
   .comments-avatar {
     margin-top: 25px;
@@ -2792,6 +2798,12 @@ body {
 }
 
 @media (max-width: 768px) {
+  .landing-page section.project {
+	 .container > .crow {
+		display: grid;
+		grid-template-columns: 1fr;
+	 }
+  }
   .landing-page {
     .carousel-caption {
       left: 5%;
