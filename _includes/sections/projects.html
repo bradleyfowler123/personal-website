@@ -19,11 +19,26 @@
             {% endif %}
               <div class="team-member">
 						{% if project.video %}
-							{% if project.sound == true %}
-							<video poster="{{ project.img }}" class="img-responsive img-small center-me" controls preload="none" onplay="$(this).css('height', '200px')" onpause="$(this).removeAttr('style')"><source src="{{ project.video }}"></video>
-							{% else %}
-							<video poster="{{ project.img }}" class="img-responsive img-small center-me" controls muted preload="none" onplay="$(this).css('height', '200px')" onpause="$(this).removeAttr('style')"><source src="{{ project.video }}"></video>
-							{% endif %}
+							<div class="img-responsive img-small center-me row-align">
+								{% if project.sound == true %}
+								<video class="full-height absolute" controls preload="none" style="display: none;"
+									onplay="$(this.parentElement).css('height', '200px'); $(this).show(); $(this.nextElementSibling).hide();"
+									onpause="$(this.parentElement).removeAttr('style'); $(this).hide(); $(this.nextElementSibling).show();">
+										<source src="{{ project.video }}">
+								</video>
+								{% else %}
+								<video class="full-height absolute" controls muted preload="none" style="display: none;"
+									onplay="$(this.parentElement).css('height', '200px'); $(this).show(); $(this.nextElementSibling).hide();"
+									onpause="$(this.parentElement).removeAttr('style'); $(this).hide(); $(this.nextElementSibling).show();">
+										<source src="{{ project.video }}">
+									</video>
+								{% endif %}
+								<div class="full-height row-align" onclick="this.previousElementSibling.play()">
+									<img src="{{ project.img }}" class="full-height absolute">
+									<i class="fa fa-circle absolute play-icon"></i>
+									<i class="fa fa-play absolute play-icon"></i>
+								</div>
+							</div>
 						{% else %}
 						<img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-small" alt="">
 						{% endif %}
