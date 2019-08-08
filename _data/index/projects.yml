@@ -3,13 +3,14 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Scope 
   url: https://scopenews.co.uk/get
-  video: me.
+  video: static/assets/video/project/scope.mp4
+  sound: true
   img: /static/assets/img/project/scope.png
   desc: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI. 
 
 - name: CERNConnect
   img: /static/assets/img/project/cern.png
-  video: https://youtu.be/apLdVG66aR8
+  video: static/assets/video/project/cern.mp4
   desc: Contracted by CERN to commercially develop our project from a hackathon held at their Geneva headquarters. The system consists of an intelligent matching engine which links people with projects using natural language processing techniques, machine learning, and an intuitive user interface.
 
 - name: SudoHack 
@@ -31,5 +32,5 @@
 
 - name: IDP
   img: /static/assets/img/project/idp.png
-  video: https://youtu.be/xgSk-cqfVlk?t=15
+  video: static/assets/video/project/idp.mp4
   desc: The task is to build and design an autonomous guided vehicle to collect, identify and deliver different crackers to their corresponding trays. I was sole software engineer of the 6 man team, writing algorithms for line following, identification and control. 
