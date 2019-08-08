@@ -27,7 +27,7 @@
   i18n: nav.skills
   name: Skills
   tpl: skills.html
-  css: team
+  css: skill
 
 #- id: blog
 #  i18n: nav.blog
