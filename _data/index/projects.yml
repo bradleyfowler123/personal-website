@@ -15,7 +15,7 @@
 
 - name: SudoHack 
   img: /static/assets/img/project/allia.png
-  desc: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars, which then communicate with each other via Bluetooth low-energy to then pass a signal over the LoRa network such that it can be processed on the internet. We placed second in the competition. 
+  desc: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars. The devices relayed information to the internet where a web interface displayed in realtime available on-street parking spaces. We placed second in the competition.
 
 - name: Gecko 
   url: //TODO google play store

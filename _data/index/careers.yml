@@ -4,10 +4,10 @@
     detail: Scope
     i18n: company_a
   desc:
-    detail: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.<br/>· Designed and trained both Supervised and Unsupervised Learning algorithms for News Clustering, Topic Classification, Sentiment Analysis and Summarisation.<br/>· Implemented Deep Learning architectures such as CNNs & RNNs; also classical methods such as Random Forest.<br/>· Deployed algorithms to the cloud using Amazon Web Services (AWS), running in real time.<br/>· Accepted onto competitive Cambridge Judge Business School Accelerator Programme.<br/>· Won place at finale of national competition Pitch@Palace. Pitched to senior execs and royalty at St James’s Palace.<br/>· Acquired client for news data service with one more in the pipeline.<br/>· Built team, persuading two interns to collaborate on the project.
+    detail: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.<br/>· Designed and trained both Supervised and Unsupervised Learning algorithms for News Clustering, Topic Classification, Sentiment Analysis and Summarisation.<br/>· Implemented CNN and RNN Deep Learning architectures as well as classical methods such as Random Forest.<br/>· Deployed algorithms to the cloud using Amazon Web Services running in real time.<br/>· Accepted onto competitive Cambridge Judge Business School Accelerator Programme.<br/>· Won place at finale of national competition Pitch@Palace. Pitched to senior executives and royalty at St James’s Palace.
     i18n: company_a_desc
   date:
-    detail: September 2018 - Present
+    detail: Sep 18 - Present
     i18n: company_a_date
   job:
     detail: CEO / Founder
@@ -20,7 +20,7 @@
   desc:
     detail: Anidium develops a wearable wrist watch to predict the presence of heart conditions.<br/>· Solely developed their supervised Deep Learning algorithm; achieved accuracy of 95%.<br/>· Deployed Deep Learning algorithm to the cloud using cutting edge AWS serverless technology.<br/>· Integrated Deep Learning cloud deployment into an IOS application.
   date:
-    detail: June 2018 - Present
+    detail: Jun 18 - Present
   job:
     detail: AI and Software Consultant
   icon: fa-briefcase
@@ -29,9 +29,9 @@
 - name:
     detail: Legal Sphere
   desc:
-    detail: TODO
+    detail: Legal Sphere is platform connecting startups and SMEs to high quality freelance solicitors.<br/>Developing their entire platform including features such as the matching algorithm, payments and in-site messaging.<br/>The web app can be found at <a href="https://legalsphere.co.uk">legalsphere.co.uk</a>
   date:
-    detail: June 2018 - Present
+    detail: Mar 19 - Present
   job:
     detail: Software Consultant
   icon: fa-briefcase
@@ -40,20 +40,20 @@
 - name:
     detail: The Technology Partnership
   desc:
-    detail: TODO
+    detail: Developed system to remotely detect human activity and identify cars from infra-red images.<br/>· Utilised Transfer Learning and novel dataset generation methods to train a CNN with no pre-existing dataset.<br/>· Only intern to start a project and have it subsequently sold to a client.<br/>· Offered full time position. 
   date:
-    detail: June 2018 - Present
+    detail: Jun 17 - Aug 17
   job:
     detail: Software Consultant
   icon: fa-briefcase
-  logo: ttp.jpeg
+  logo: ttp.png
 
 - name:
     detail: Cubica Technology
   desc:
-    detail: TODO
+    detail: Significantly improved the speed of their flagship computer vision product through Deep Learning.<br/>· Designed and trained a sequence to sequence model for speech to text classification in TensorFlow.<br/>· Converted into full time position.
   date:
-    detail: June 2018 - Present
+    detail: Aug 17 - Sep 17
   job:
     detail: Software Consultant
   icon: fa-briefcase
@@ -62,9 +62,9 @@
 - name:
     detail: BAE Systems 
   desc:
-    detail: TODO
+    detail: · Designed a solution to accurately decode GPS data into appropriate messages using the Unified Modeling Language framework and object orientated programming techniques.<br/>· Completed the solution to a professional standard for it to be tested on the next submarine sea trials.<br/>·  Aided in producing the campaign plan to try and secure contracts from the MoD totalling £50 Million.<br/>·  The campaign plan included strategy, SWOT analysis, stakeholder analysis & costing. 
   date:
-    detail: June 2018 - Present
+    detail: Jun 15 - Sep 15
   job:
     detail: Systems Engineering Intern 
   icon: fa-briefcase

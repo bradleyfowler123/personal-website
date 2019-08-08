@@ -9,9 +9,18 @@ button.dim {
 }
 
 .row-align {
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.row-center {
+  width: fit-content;
+  margin: auto;
+}
+
+br {
+  line-height: 30px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1265,6 +1274,11 @@ a {
 .wrapper {
   padding: 0 20px;
 }
+@media (max-width: 767px) {
+	.mobile-vmargin-wrapper {
+	  margin: 10px 0;
+	}
+}
 
 .wrapper-content {
   padding: 20px 10px 40px;
@@ -1521,6 +1535,10 @@ a.close-canvas-menu {
 
 .full-height {
   height: 100%;
+}
+
+.absolute {
+  position: absolute;
 }
 
 .p-xs {
@@ -2385,6 +2403,9 @@ body {
     color: #aeaeae;
     font-size: 13px;
   }
+  section.timeline:not(.gray-section) p {
+    color: #808080;
+  }
   h1 {
     margin-top: 10px;
     font-size: 30px;
@@ -2653,6 +2674,16 @@ body {
     &:hover {
       background: #3385FF;
     }
+  }
+  .play-icon.fa-circle {
+    font-size: 42px;
+    top: calc(50% - 21px);
+    color: #5B5A54;
+  }
+  .play-icon.fa-play {
+    font-size: 16px;
+    top: calc(50% - 8px);
+    color: white;
   }
   .img-vsmall {
     height: 44px;
