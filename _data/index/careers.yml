@@ -4,7 +4,7 @@
     detail: Scope
     i18n: company_a
   desc:
-    detail: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.<br/>· Designed and trained both Supervised and Unsupervised Learning algorithms for News Clustering, Topic Classification, Sentiment Analysis and Summarisation.<br/>· Implemented Deep Learning architectures such as CNNs & RNNs; also classical methods such as Random Forest.<br/>· Deployed algorithms to the cloud using Amazon Web Services (AWS), running in real time.<br/>· Accepted onto competitive Cambridge Judge Business School Accelerator Programme.<br/>· Won place at finale of national competition Pitch@Palace. Pitched to senior execs and royalty at St James’s Palace.
+    detail: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.<br/>· Designed and trained both Supervised and Unsupervised Learning algorithms for News Clustering, Topic Classification, Sentiment Analysis and Summarisation.<br/>· Implemented CNN and RNN Deep Learning architectures as well as classical methods such as Random Forest.<br/>· Deployed algorithms to the cloud using Amazon Web Services running in real time.<br/>· Accepted onto competitive Cambridge Judge Business School Accelerator Programme.<br/>· Won place at finale of national competition Pitch@Palace. Pitched to senior executives and royalty at St James’s Palace.
     i18n: company_a_desc
   date:
     detail: Sep 18 - Present
@@ -29,7 +29,7 @@
 - name:
     detail: Legal Sphere
   desc:
-    detail: Building their entire platform, a web app that connect freelance solicitors with clients.<br/>This is a fully integrated platform with a smart matching algorithm, in-house messaging and secure document storage.
+    detail: Legal Sphere is platform connecting startups and SMEs to high quality freelance solicitors.<br/>Developing their entire platform including features such as the matching algorithm, payments and in-site messaging.<br/>The web app can be found at <a href="https://legalsphere.co.uk">legalsphere.co.uk</a>
   date:
     detail: Mar 19 - Present
   job:
@@ -46,7 +46,7 @@
   job:
     detail: Software Consultant
   icon: fa-briefcase
-  logo: ttp.jpeg
+  logo: ttp.png
 
 - name:
     detail: Cubica Technology
@@ -62,7 +62,7 @@
 - name:
     detail: BAE Systems 
   desc:
-    detail: Designed a solution to accurately decode GPS data into appropriate messages using the Unified Modeling Language framework and object orientated programming techniques. Completed the solution to a professional standard for it to be tested on the next submarine sea trials. Aided in producing the campaign plan to try and secure contracts from the MoD totalling £50 Million. The campaign plan included strategy, SWOT analysis, stakeholder analysis & costing. 
+    detail: · Designed a solution to accurately decode GPS data into appropriate messages using the Unified Modeling Language framework and object orientated programming techniques.<br/>· Completed the solution to a professional standard for it to be tested on the next submarine sea trials.<br/>·  Aided in producing the campaign plan to try and secure contracts from the MoD totalling £50 Million.<br/>·  The campaign plan included strategy, SWOT analysis, stakeholder analysis & costing. 
   date:
     detail: Jun 15 - Sep 15
   job:
