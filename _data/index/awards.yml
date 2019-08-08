@@ -3,71 +3,66 @@
 - name:
     detail: Cambridge Judge Business School
   desc:
-    detail: 
+    detail: Accelerate Cambridge help teams of entrepreneurs turn an idea into a business, launch, and then keep going. Accelerate Cambridge is part of an ecosystem of support for entrepreneurs in Cambridge, helping them navigate their way through it and find the resources they need. 
   date:
     detail: Sep 18 - Jul 19
   job:
     detail: Accelerate Cambridge
-  url: https://x.com
   icon: fa-lightbulb-o
   logo: cjbs.png
 
 - name:
     detail: Cambridge University
   desc:
-    detail: TODO
+    detail: Awarded <b>2.i MEng BA</b> with <b>Distinction</b> in Masters Project.<br/><b>Notable Courses:</b> Probabilistic Machine Learning, Deep Learning and Structured Data, Statistical Signal Analysis, Software Engineering and Design, Practical Optimisation, Bayesian Inference.<br/><b>Masters Thesis:</b> Project aimed to help reduce the negative bias of news through using novel, cutting edge AI approaches. Used this technology as the starting point of the spin out company, Scope.
+
   date:
     detail: Oct 14 - Jun 18
   job:
     detail: Masters Degree - Information and Computer Engineering 
-  url: https://x.com
   icon: fa-university
   logo: cambridge.png
 
 - name:
     detail: #Royal Academy of Engineering
   desc:
-    detail: TODO
+    detail: The Advance Leadership Award aims to provide support for engineering undergraduates in UK universities who have the potential to become leaders in engineering and who are able to act as role models for future engineers. These awards help ambitious and inspiring engineering undergraduates to undertake an accelerated personal development programme. 
   date:
     detail: Apr 16 - Jun 18
   job:
     detail: Engineering Leaders Scholar
-  url: https://x.com
   icon: fa-users
   logo: rae.png
 
 - name:
     detail: #Allia Serious Impact 
   desc:
-    detail: TODO
+    detail: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars, which then communicate with each other via Bluetooth low-energy to then pass a signal over the LoRa network such that it can be processed on the internet. We placed second in the competition. 
   date:
     detail: Jun 17
   job:
     detail: 2nd Pclace @ SudoHack
-  url: https://x.com
   icon: fa-trophy
   logo: allia.png
 
 - name:
     detail: Cambridge University Entrepenurs 
   desc:
-    detail: TODO
+    detail: Run by Cambridge University Entrepreneurs, approximately 200 people enter the competition every year and I reached the final stage of interviews. 
   date:
     detail: Mar 17
   job:
     detail: Young Entrepenur of the Year Finalist
-  url: https://x.com
   icon: fa-lightbulb-o
   logo: cue.png
 
 - name:
-    detail: Royal Air Force
+    detail: #Royal Air Force
   desc:
-    detail: TODO
+    detail: The Defence Technical Undergraduate Scheme provides leadership training and character building through the means of high stress, physically and mentally demanding situations. These are predominantly out in the field and all have the aim of developing individuals into future military leaders. 
   date:
     detail: Oct 14 - Oct 16
   job:
     detail: DTUS Bursar 
-  url: https://x.com
   icon: fa-users
   logo: raf.jpeg
