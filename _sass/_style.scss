@@ -13,6 +13,10 @@ button.dim {
   align-items: center;
   justify-content: center;
 }
+.row-center {
+  width: fit-content;
+  margin: auto;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 100;
@@ -1264,6 +1268,11 @@ a {
 
 .wrapper {
   padding: 0 20px;
+}
+@media (max-width: 767px) {
+	.mobile-vmargin-wrapper {
+	  margin: 10px 0;
+	}
 }
 
 .wrapper-content {
