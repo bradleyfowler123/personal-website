@@ -1123,10 +1123,13 @@ label.error {
   }
 }
 
+.gray-section .vertical-timeline-content {
+  background: #fff;
+}
 .vertical-timeline-content {
   position: relative;
   margin-left: 60px;
-  background: #fff;
+  background: #f4f4f4;
   border-radius: .25em;
   padding: 1em;
   &:after {
