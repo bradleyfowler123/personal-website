@@ -1123,10 +1123,13 @@ label.error {
   }
 }
 
+.gray-section .vertical-timeline-content {
+  background: #fff;
+}
 .vertical-timeline-content {
   position: relative;
   margin-left: 60px;
-  background: #fff;
+  background: #f4f4f4;
   border-radius: .25em;
   padding: 1em;
   &:after {
@@ -2635,7 +2638,7 @@ body {
   }
   .team-member {
     text-align: center;
-    img {
+    img, .center-me {
       margin: auto;
     }
   }
@@ -2681,7 +2684,7 @@ body {
     margin-top: 60px;
   }
   section {
-    &.timeline {
+    &.timeline, &.project, &.skill {
       padding-bottom: 30px;
     }
     &.comments {

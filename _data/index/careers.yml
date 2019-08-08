@@ -24,7 +24,7 @@
   job:
     detail: AI and Software Consultant
   icon: fa-briefcase
-  logo: cjbs.png
+  logo: anidium.png
 
 - name:
     detail: Legal Sphere
@@ -60,12 +60,12 @@
   logo: cubica.png
 
 - name:
-    detail: Royal Air Force
+    detail: BAE Systems 
   desc:
     detail: TODO
   date:
     detail: June 2018 - Present
   job:
-    detail: Software Consultant
+    detail: Systems Engineering Intern 
   icon: fa-briefcase
-  logo: raf.jpeg
+  logo: bae.png
