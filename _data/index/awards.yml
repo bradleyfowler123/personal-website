@@ -3,7 +3,7 @@
 - name:
     detail: Cambridge Judge Business School
   desc:
-    detail: Accelerate Cambridge help teams of entrepreneurs turn an idea into a business, launch, and then keep going. Accelerate Cambridge is part of an ecosystem of support for entrepreneurs in Cambridge, helping them navigate their way through it and find the resources they need. 
+    detail: Accelerate Cambridge selects the most promising early stage startups in the Cambridge area every year. It helps the entrepreneurs turn an idea into a business, launch, and then keep going. Accelerate Cambridge is part of an ecosystem of support for entrepreneurs in Cambridge, helping them navigate their way through it and find the resources they need. 
   date:
     detail: Sep 18 - Jul 19
   job:
@@ -37,7 +37,7 @@
 - name:
     detail: #Allia Serious Impact 
   desc:
-    detail: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars, which then communicate with each other via Bluetooth low-energy to then pass a signal over the LoRa network such that it can be processed on the internet. We placed second in the competition. 
+    detail: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars. These devices then communicate with each other via Bluetooth low-energy to pass a signal to the internet via a LoRa network. The information is presented in realtime via a web interface to enable realtime detection of on-street parking spaces. We placed second in the competition. 
   date:
     detail: Jun 17
   job:
@@ -48,7 +48,7 @@
 - name:
     detail: Cambridge University Entrepenurs 
   desc:
-    detail: Run by Cambridge University Entrepreneurs, approximately 200 people enter the competition every year and I reached the final stage of interviews. 
+    detail: Cambridge University Entrepreneurs run an annual Young Entrepenur of the Year competition. Approximately 200 people enter the competition and after I reached the final stage of interviews consisting of under 10 candidates. I won the best pitch prize.
   date:
     detail: Mar 17
   job:
