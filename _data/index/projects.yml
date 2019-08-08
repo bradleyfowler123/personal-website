@@ -15,7 +15,7 @@
 
 - name: SudoHack 
   img: /static/assets/img/project/allia.png
-  desc: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars. The devices relayed information to the internet where a web interface displayed in realtime available on-street parking spaces. We placed second in the competition.
+  desc: In 24 hours we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars. The devices relayed information to the internet where a web interface displayed in realtime available on-street parking spaces. We placed second in the competition.
 
 - name: Gecko 
   url: //TODO google play store
@@ -31,4 +31,4 @@
 - name: Autonomous Robot
   img: /static/assets/img/project/idp.png
   video: static/assets/video/project/idp.mp4
-  desc: Our task was to build and design an autonomous guided vehicle to collect, identify and deliver different crackers to their corresponding trays. I was sole software engineer of the six person team, writing algorithms for line following, identification and control. 
+  desc: Our task was to build and design an autonomous guided vehicle to collect, identify and deliver different crackers to their corresponding trays. I was sole software engineer of the six person team; writing algorithms for line following, identification and control. 
