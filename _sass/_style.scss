@@ -20,7 +20,9 @@ button.dim {
 }
 
 br {
-  line-height: 30px;
+  margin-top: 5px;
+  display: block;
+  content: " ";
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -2403,7 +2405,13 @@ body {
     color: #aeaeae;
     font-size: 13px;
   }
-  section.timeline:not(.gray-section) p {
+  section.about p {
+    font-size: 15px;
+  }
+  section.about br {
+    margin-top: 10px;
+  }
+  section:not(.timeline.gray-section) p {
     color: #808080;
   }
   h1 {
@@ -2721,6 +2729,13 @@ body {
     &.comments {
       padding-bottom: 80px;
     }
+	 &.project {
+		.container > .crow {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			grid-gap: 10px;
+		}
+	}
   }
   .comments-avatar {
     margin-top: 25px;
@@ -2792,6 +2807,13 @@ body {
 }
 
 @media (max-width: 768px) {
+  .landing-page section.project {
+	 .container > .crow {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-gap: 10px;
+	 }
+  }
   .landing-page {
     .carousel-caption {
       left: 5%;
