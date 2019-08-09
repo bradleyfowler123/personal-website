@@ -12,7 +12,7 @@
   video: static/assets/video/project/scope.mp4
   sound: true
   img: /static/assets/img/project/scope.png
-  desc: Scope is busting the information bubble by exposing diversity of opinion on the breaking news headlines through AI. It is a news platform (Android, IOS & Web) that aggregates multimedia breaking news content from across the globe. It utilises machine learning to group all of the content about the same headline together. Providing you with a diversity of opinion to help you combat fake news and bias. 
+  desc: Scope is bursting the information bubble by exposing diversity of opinion on the breaking news headlines through AI. It is a news platform (Android, IOS & Web) that aggregates multimedia breaking news content from across the globe. It utilises machine learning to group all of the content about the same headline together. Providing you with a diversity of opinion to help you combat fake news and bias. 
 
 - name: CERNConnect
   img: /static/assets/img/project/cern.png
@@ -42,4 +42,4 @@
 - name: Autonomous Robot
   img: /static/assets/img/project/idp.png
   video: static/assets/video/project/idp.mp4
-  desc: Our task was to build and design an autonomous guided vehicle to collect, identify and deliver different crackers to their corresponding trays. I was sole software engineer of the six person team; writing algorithms for line following, identification and control. 
+  desc: Our task was to build and design an autonomous guided vehicle to collect, identify and deliver different crackers to their corresponding trays. I was lead software engineer of the six person team; writing algorithms for line following, identification and control. 
