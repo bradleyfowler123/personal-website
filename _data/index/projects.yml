@@ -2,7 +2,13 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Scope 
-  url: https://scopenews.co.uk/get
+  buttons:
+    - name: Android
+      url: https://play.google.com/store/apps/details?id=io.gonative.android.yzzbpb
+    - name: IOS
+      url: https://itunes.apple.com/us/app/scope-the-news-you-choose/id1393689691
+    - name: Web
+      url: https://scopenews.co.uk/landing
   video: static/assets/video/project/scope.mp4
   sound: true
   img: /static/assets/img/project/scope.png
@@ -18,13 +24,18 @@
   desc: In 24 hours we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars. The devices relayed information to the internet where a web interface displayed in realtime available on-street parking spaces. We placed second in the competition.
 
 - name: Gecko 
-  url: //TODO google play store
-  repo: https://github.com/bradleyfowler123/gecko TODO
+  buttons:
+    - name: Android
+      url: https://play.google.com/store/apps/details?id=com.auton.bradley.myfe
+    - name: GitHub 
+      url: https://github.com/bradleyfowler123/gecko
   img: /static/assets/img/project/gecko.png
   desc: Gecko is a social application for the people of Cambridge, helping you to discover interesting local events and activities. Connect the service with Facebook in order to see what your friends are interested in, and their upcoming agenda! 
 
 - name: Drone
-  repo: https://github.com/bradleyfowler123/gecko TODO
+  buttons:
+    - name: GitHub 
+      url: https://github.com/bradleyfowler123/AR-Quadcopter
   img: /static/assets/img/project/drone.jpg
   desc: A multi rotor UAV controlled via `First Person View` from a smartphone within a VR headset. A live feed from a camera placed on the drone is relayed to the headset and the drone can be controlled by simple head turns. I led a small team to build this from scratch covering the mechanical, electrical and software design and build. We secured £500 funding from the University of Cambridge Engineering Department. 
 

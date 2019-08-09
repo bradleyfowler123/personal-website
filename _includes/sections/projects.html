@@ -46,12 +46,9 @@
                   <span class="navy">{{ project.name }}</span>
                   </h4>
                   <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
-                  {% if project.url %}
-							<a href="{{ project.url }}" target="_blank" class="btn btn-white btn-xs"><span class="navy">Website</span></a>
-                  {% endif %}
-                  {% if project.repo %}
-							<a href="{{ project.repo }}" target="_blank" class="btn btn-white btn-xs"><span class="navy">Github</span></a>
-                  {% endif %}
+                  {% for button in project.buttons %}
+							<a href="{{ button.url }}" target="_blank" class="btn btn-white btn-xs"><span class="navy">{{ button.name }}</span></a>
+                  {% endfor %}
               </div>
           </div>
       {% endfor %}

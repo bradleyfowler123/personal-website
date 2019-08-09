@@ -2733,6 +2733,7 @@ body {
 		.container > .crow {
 			display: grid;
 			grid-template-columns: 1fr 1fr;
+			grid-gap: 10px;
 		}
 	}
   }
@@ -2810,6 +2811,7 @@ body {
 	 .container > .crow {
 		display: grid;
 		grid-template-columns: 1fr;
+		grid-gap: 10px;
 	 }
   }
   .landing-page {
