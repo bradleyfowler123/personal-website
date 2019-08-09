@@ -38,7 +38,7 @@ author:  # change following line to your infomation.
     - name: fa-envelope-o
       url: mailto:bradley.fowler123@gmail.com 
 
-  desc: Founder and CEO of AI News compnay, Scope.<br/>I specialise in Artificial Intelligence and Software with a Masters degree from the University of Cambridge in Information and Computer Engineering. I have a strong passion for business, algoritms and understanding new technology.<br/>Please feel free to reach out if you are interested in getting in touch. I am open to opportunities, particularly those in the Machine Learning or Deep Tech Venture Capital space. I look forward to hearing from you! 
+  desc: Founder and CEO of AI News company, Scope.<br/>I specialise in Artificial Intelligence and Software with a Masters degree from the University of Cambridge in Information and Computer Engineering. I have a strong passion for business, algoritms and understanding new technology.<br/>Please feel free to reach out if you are interested in getting in touch. I am open to opportunities, particularly those in the Machine Learning or Deep Tech Venture Capital space. I look forward to hearing from you! 
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
