@@ -37,7 +37,7 @@
 - name:
     detail: #Allia Serious Impact 
   desc:
-    detail: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars. These devices then communicate with each other via Bluetooth low-energy to pass a signal to the internet via a LoRa network. The information is presented in realtime via a web interface to enable realtime detection of on-street parking spaces. We placed second in the competition. 
+    detail: In 24 hours, we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars. These devices then communicate with each other via Bluetooth low-energy to pass a signal to the internet via a LoRa network. The information is presented in real-time via a web interface to enable real-time detection of on-street parking spaces. We placed second in the competition. 
   date:
     detail: Jun 17
   job:
@@ -46,13 +46,13 @@
   logo: allia.png
 
 - name:
-    detail: Cambridge University Entrepenurs 
+    detail: Cambridge University Entrepreneurs 
   desc:
-    detail: Cambridge University Entrepreneurs run an annual Young Entrepenur of the Year competition. Approximately 200 people enter the competition and after I reached the final stage of interviews consisting of under 10 candidates. I won the best pitch prize.
+    detail: Cambridge University Entrepreneurs run an annual Young Entrepreneur of the Year competition. Approximately 200 people enter the competition and after I reached the final stage of interviews consisting of under 10 candidates. I won the best pitch prize.
   date:
     detail: Mar 17
   job:
-    detail: Young Entrepenur of the Year Finalist
+    detail: Young Entrepreneur of the Year Finalist
   icon: fa-lightbulb-o
   logo: cue.png
 

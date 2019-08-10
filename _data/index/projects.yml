@@ -21,7 +21,7 @@
 
 - name: SudoHack 
   img: /static/assets/img/project/allia.png
-  desc: In 24 hours we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars. The devices relayed information to the internet where a web interface displayed in realtime available on-street parking spaces. We placed second in the competition.
+  desc: In 24 hours we developed an automated on-street parking management system. The project involved hacking microcontrollers with magnetometers to detect cars. The devices relayed information to the internet where a web interface displayed in real-time available on-street parking spaces. We placed second in the competition.
 
 - name: Gecko 
   buttons:
