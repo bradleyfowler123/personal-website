@@ -2386,6 +2386,29 @@ body {
   }
 }
 
+#career {
+	.tab-menu {
+		color: #878b92;
+		display: grid;
+		grid-gap: 5px;
+		grid-template-columns: repeat( auto-fit, minmax(60px, 1fr) ); 
+	}
+	.tab-menu > * {
+		margin: 0 auto 8px auto;
+		cursor: pointer;
+	}
+	.tab-menu > .active {
+		color: #52555a;
+		font-weight: bold;
+	}
+	.tab-menu ~ hr {
+		margin: 0;
+	}
+
+	.tabs > *:not(.active) {
+		display: none;
+	}
+}
 
 .landing-page {
   span.navy {

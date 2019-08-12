@@ -19,7 +19,29 @@
 	                        <img class="img-responsive img-small" src="/static/assets/img/career/{{ career.logo }}"></img>
 		                     <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
 								</div>
-                        <p><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span></p>
+
+								<!-- career item summary -->
+	                     <p>{{ career.desc.summary }}</p>
+								<!-- career item experience tabs -->
+								<div class="row-align tab-menu">
+									{% if career.desc.business %}
+									<h4 data-tab="business" onclick="tabChange(this.parentElement.parentElement, this.dataset.tab)">Business</h4>
+									{% endif %}
+									{% if career.desc.software %}
+									<h4 data-tab="software" onclick="tabChange(this.parentElement.parentElement, this.dataset.tab)">Software</h4>
+									{% endif %}
+									{% if career.desc.machine_learning %}
+									<h4 data-tab="ml" onclick="tabChange(this.parentElement.parentElement, this.dataset.tab)">Machine Learning</h4>
+									{% endif %}
+								</div>
+								<hr />
+								<!-- career item experience content -->
+								<div class="tabs">
+	                        <p data-tab="business"><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.business }} </span></p>
+	                        <p data-tab="software"><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.software }} </span></p>
+	                        <p data-tab="ml"><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.machine_learning }} </span></p>
+								</div>
+								<!-- career item dates and role -->
                         <h4>
 									<span class="vertical-date"><span data-i18n="career.{{ career.date.i18n }}"> {{ career.date.detail }} </span>
 									<br/>
