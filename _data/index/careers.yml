@@ -4,7 +4,7 @@
     detail: Scope
     i18n: company_a
   desc:
-    summary: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.
+    summary: Scope is bursting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.
     business: ·	Accepted onto competitive Cambridge Judge Business School Accelerator Programme.<br/>·	Won place at finale of national competition Pitch@Palace. Pitched to senior executives and royalty at St James’s Palace.<br/>·	Acquired client for news data service with two more in the pipeline.
     software: ·	Developed full stack; algorithms -> databases -> server -> client backend -> client frontend<br/>·	Fully implemented an Automated Deployment pipeline and a basic Automated Testing pipeline.<br/>·	Parallelised work using multi-threading through asynchronous functions.<br/>·	Developed both native mobile applications (Android, IOS) and a progressive web application.<br/>
     machine_learning: ·	Designed and trained both Supervised and Unsupervised Learning algorithms for News Clustering, Topic Classification, Sentiment Analysis and Summarisation.<br/>·	Implemented CNN and RNN Deep Learning architectures as well as classical methods such as Random Forest.<br/>·	Deployed algorithms to the cloud using Amazon Web Services running in real time.
@@ -22,8 +22,8 @@
     detail: Anidium
   desc:
     summary: Anidium develops a wearable wrist watch to predict the presence of heart arrhythmias.
-    software: ·	Developed ML algorithm to classify arrhythmias, deploying it as a serverless application on AWS.<br/>·	Developed bespoke Automated Deployment script for deploying to AWS’s serverless architecture, Lambda.<br/>·	Integrated cloud deployment into the IOS application along with automated push notifications.<br/>·	Utilised Agile Development methodologies and coded using OOP practices.
-    machine_learning: ·	Solely developed their supervised Deep Learning algorithm; achieved accuracy of 95%.<br/>·	Deployed Deep Learning algorithm to the cloud using cutting edge AWS serverless technology.
+    software: ·	Developed bespoke Automated Deployment script utilising Docker for deploying to AWS’s serverless architecture, Lambda.<br/>·	Integrated cloud deployment into the IOS application along with automated push notifications.<br/>·	Utilised Agile Development methodologies and coded using OOP practices.
+    machine_learning: ·	Developed extensive pre-processing pipeline rendering a noisy, difficult dataset tractable.<br/>·	Led development of an RNN classifer to detect heart arrhythmias achieving accuracy of over 95%.<br/>·	Deployed Deep Learning algorithm to the cloud using cutting edge AWS serverless technology.
   date:
     detail: Jun 18 - Present
   job:
@@ -35,8 +35,7 @@
     detail: Legal Sphere
   desc:
     summary: Legal Sphere is platform connecting startups and SMEs to high quality freelance solicitors.
-    business: Developing their entire platform including features such as the matching algorithm, payments and in-site messaging.<br/>The web app can be found at <a href="https://legalsphere.co.uk">legalsphere.co.uk</a>
-    software: hello
+    software: Developing their entire platform including features such as the matching algorithm, payments and in-site messaging.<br/>The web app can be found through logging in at <a href="https://legalsphere.co.uk">legalsphere.co.uk</a>
   date:
     detail: Mar 19 - Present
   job:
@@ -47,10 +46,10 @@
 - name:
     detail: The Technology Partnership
   desc:
-    summary: Developed system to remotely detect human activity and identify cars from infra-red images.
+    summary: The Technology Partnership plc (TTP) is Europe's leading technology and product development company. 
     business: ·	Only intern to start a project and have it subsequently sold to a client.<br/>·	Offered full time position. 
-    software: ·	Utilised TensorFlow in Python to create, train and run in production a Machine Learning model.<br/>·	RPi stuff TODO
-    machine_learning: ·	Utilised Transfer Learning and novel dataset generation methods to train a CNN with no pre-existing dataset.<br/>
+    software: ·	Developed ML algorithm in TensorFlow to remotely detect human activity.<br/>·	Optimised methods in memory and power consumption for a serverly constrained device.<br/>·	Used Linux in both development and for production environment.</br>
+    machine_learning: ·	Developed system to identify cars from infra-red images.<br/>·	Utilised Transfer Learning and novel dataset generation methods to train a CNN with no pre-existing dataset.
   date:
     detail: Jun 17 - Aug 17
   job:
@@ -61,10 +60,9 @@
 - name:
     detail: Cubica Technology
   desc:
-    summary: Significantly improved the speed of their flagship computer vision product through Deep Learning.
-    business: ·	Designed and trained a sequence to sequence model for speech to text classification in TensorFlow.<br/>·	Converted into full time position.
-    software: hello
-    machine_learning: world
+    summary: Cubica build cutting edge algorithms, software, and systems for processing images & video.
+    software: ·	Developed on a Linux based system in Python.</br>·	Integrated ML solution into their module containerised solution using Docker.
+    machine_learning: ·	Improved the speed of their flagship computer vision product through Deep Learning.<br/>·	Designed and trained a sequence to sequence model for speech to text classification in TensorFlow.
   date:
     detail: Aug 17 - Sep 17
   job:
@@ -73,12 +71,11 @@
   logo: cubica.png
 
 - name:
-    detail: BAE Systems 
+    detail: #BAE Systems 
   desc:
-    summary: ·	Designed a solution to accurately decode GPS data into appropriate messages using the Unified Modeling Language framework and object orientated programming techniques.
-    business: ·	Completed the solution to a professional standard for it to be tested on the next submarine sea trials.<br/>·	 Aided in producing the campaign plan to try and secure contracts from the MoD totalling £50 Million.<br/>·	 The campaign plan included strategy, SWOT analysis, stakeholder analysis & costing. 
-    software: hello
-    machine_learning: world
+    summary: BAE Systems plc is the UK's largest defence, security, and aerospace company.
+    business: ·	 Aided in producing the campaign plan to try and secure contracts from the MoD totalling £50 Million.<br/>·	 The campaign plan included strategy, SWOT analysis, stakeholder analysis & costing. 
+    software: ·	Designed a solution to accurately decode GPS data into appropriate messages using UML framework and OOP techniques.<br/>·	Completed the solution to a professional standard for it to be tested on the next submarine sea trials.
   date:
     detail: Jun 15 - Sep 15
   job:
