@@ -12,6 +12,7 @@ module.exports = {
             'node_modules/pace-progress/pace.js',
             'node_modules/wowjs/dist/wow.js',
             'static/js/scroll.js',
+            'static/js/ticker.js',
             'static/js/count.js'
         ]
     }, {

@@ -24,9 +24,9 @@
 	                     <p>{{ career.desc.summary }}</p>
 								<!-- career item experience tabs -->
 								<div class="row-align tab-menu">
-									<h4 data-tab="business" class="active" onclick="tabChange(this.dataset.tab)">Business</h4>
-									<h4 data-tab="software" class="" onclick="tabChange(this.dataset.tab)">Software</h4>
-									<h4 data-tab="ml" class="" onclick="tabChange(this.dataset.tab)">Machine Learning</h4>
+									<h4 data-tab="business" class="active" onclick="tabChange(this.parentElement.parentElement, this.dataset.tab)">Business</h4>
+									<h4 data-tab="software" class="" onclick="tabChange(this.parentElement.parentElement, this.dataset.tab)">Software</h4>
+									<h4 data-tab="ml" class="" onclick="tabChange(this.parentElement.parentElement, this.dataset.tab)">Machine Learning</h4>
 								</div>
 								<hr />
 								<!-- career item experience content -->
@@ -48,9 +48,3 @@
         </div>
     </div>
 </div>
-<script>
-	const tabChange = function(new_tab_name) {
-		$(".tab-menu > .active, .tabs > .active").removeClass("active")
-		$(".tab-menu > [data-tab='"+new_tab_name+"'], .tabs > [data-tab='"+new_tab_name+"']").addClass("active")
-	}
-</script>
