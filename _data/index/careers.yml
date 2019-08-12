@@ -4,7 +4,10 @@
     detail: Scope
     i18n: company_a
   desc:
-    detail: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.<br/>· Designed and trained both Supervised and Unsupervised Learning algorithms for News Clustering, Topic Classification, Sentiment Analysis and Summarisation.<br/>· Implemented CNN and RNN Deep Learning architectures as well as classical methods such as Random Forest.<br/>· Deployed algorithms to the cloud using Amazon Web Services running in real time.<br/>· Accepted onto competitive Cambridge Judge Business School Accelerator Programme.<br/>· Won place at finale of national competition Pitch@Palace. Pitched to senior executives and royalty at St James’s Palace.
+    summary: Busting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.
+    business: ·	Accepted onto competitive Cambridge Judge Business School Accelerator Programme.<br/>·	Won place at finale of national competition Pitch@Palace. Pitched to senior executives and royalty at St James’s Palace.
+    software: ·	Developed full stack; algorithms -> databases -> server -> client backend -> client frontend<br/>·	Fully implemented an Automated Deployment pipeline and a basic Automated Testing pipeline.<br/>·	Parallelised work using multi-threading through asynchronous functions.<br/>·	Developed both native mobile applications (Android, IOS) and a progressive web application.<br/>
+    machine_learning: ·	Designed and trained both Supervised and Unsupervised Learning algorithms for News Clustering, Topic Classification, Sentiment Analysis and Summarisation.<br/>·	Implemented CNN and RNN Deep Learning architectures as well as classical methods such as Random Forest.<br/>·	Deployed algorithms to the cloud using Amazon Web Services running in real time.<br/>
     i18n: company_a_desc
   date:
     detail: Sep 18 - Present
@@ -18,7 +21,10 @@
 - name:
     detail: Anidium
   desc:
-    detail: Anidium develops a wearable wrist watch to predict the presence of heart conditions.<br/>· Solely developed their supervised Deep Learning algorithm; achieved accuracy of 95%.<br/>· Deployed Deep Learning algorithm to the cloud using cutting edge AWS serverless technology.<br/>· Integrated Deep Learning cloud deployment into an IOS application.
+    summary: Anidium develops a wearable wrist watch to predict the presence of heart conditions.
+    business: world
+    software: hello
+    machine_learning: ·	Solely developed their supervised Deep Learning algorithm; achieved accuracy of 95%.<br/>·	Deployed Deep Learning algorithm to the cloud using cutting edge AWS serverless technology.<br/>·	Integrated Deep Learning cloud deployment into an IOS application.
   date:
     detail: Jun 18 - Present
   job:
@@ -29,7 +35,10 @@
 - name:
     detail: Legal Sphere
   desc:
-    detail: Legal Sphere is platform connecting startups and SMEs to high quality freelance solicitors.<br/>Developing their entire platform including features such as the matching algorithm, payments and in-site messaging.<br/>The web app can be found at <a href="https://legalsphere.co.uk">legalsphere.co.uk</a>
+    summary: Legal Sphere is platform connecting startups and SMEs to high quality freelance solicitors.
+    business: Developing their entire platform including features such as the matching algorithm, payments and in-site messaging.<br/>The web app can be found at <a href="https://legalsphere.co.uk">legalsphere.co.uk</a>
+    software: hello
+    machine_learning: world
   date:
     detail: Mar 19 - Present
   job:
@@ -40,7 +49,10 @@
 - name:
     detail: The Technology Partnership
   desc:
-    detail: Developed system to remotely detect human activity and identify cars from infra-red images.<br/>· Utilised Transfer Learning and novel dataset generation methods to train a CNN with no pre-existing dataset.<br/>· Only intern to start a project and have it subsequently sold to a client.<br/>· Offered full time position. 
+    summary: Developed system to remotely detect human activity and identify cars from infra-red images.
+    business: ·	Utilised Transfer Learning and novel dataset generation methods to train a CNN with no pre-existing dataset.<br/>·	Only intern to start a project and have it subsequently sold to a client.<br/>·	Offered full time position. 
+    software: hello
+    machine_learning: world
   date:
     detail: Jun 17 - Aug 17
   job:
@@ -51,7 +63,10 @@
 - name:
     detail: Cubica Technology
   desc:
-    detail: Significantly improved the speed of their flagship computer vision product through Deep Learning.<br/>· Designed and trained a sequence to sequence model for speech to text classification in TensorFlow.<br/>· Converted into full time position.
+    summary: Significantly improved the speed of their flagship computer vision product through Deep Learning.
+    business: ·	Designed and trained a sequence to sequence model for speech to text classification in TensorFlow.<br/>·	Converted into full time position.
+    software: hello
+    machine_learning: world
   date:
     detail: Aug 17 - Sep 17
   job:
@@ -62,7 +77,10 @@
 - name:
     detail: BAE Systems 
   desc:
-    detail: · Designed a solution to accurately decode GPS data into appropriate messages using the Unified Modeling Language framework and object orientated programming techniques.<br/>· Completed the solution to a professional standard for it to be tested on the next submarine sea trials.<br/>·  Aided in producing the campaign plan to try and secure contracts from the MoD totalling £50 Million.<br/>·  The campaign plan included strategy, SWOT analysis, stakeholder analysis & costing. 
+    summary: ·	Designed a solution to accurately decode GPS data into appropriate messages using the Unified Modeling Language framework and object orientated programming techniques.
+    business: ·	Completed the solution to a professional standard for it to be tested on the next submarine sea trials.<br/>·	 Aided in producing the campaign plan to try and secure contracts from the MoD totalling £50 Million.<br/>·	 The campaign plan included strategy, SWOT analysis, stakeholder analysis & costing. 
+    software: hello
+    machine_learning: world
   date:
     detail: Jun 15 - Sep 15
   job:

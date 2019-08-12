@@ -19,7 +19,23 @@
 	                        <img class="img-responsive img-small" src="/static/assets/img/career/{{ career.logo }}"></img>
 		                     <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
 								</div>
-                        <p><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span></p>
+
+								<!-- career item summary -->
+	                     <p>{{ career.desc.summary }}</p>
+								<!-- career item experience tabs -->
+								<div class="row-align tab-menu">
+									<h4 data-tab="business" class="active" onclick="tabChange(this.dataset.tab)">Business</h4>
+									<h4 data-tab="software" class="" onclick="tabChange(this.dataset.tab)">Software</h4>
+									<h4 data-tab="ml" class="" onclick="tabChange(this.dataset.tab)">Machine Learning</h4>
+								</div>
+								<hr />
+								<!-- career item experience content -->
+								<div class="tabs">
+	                        <p data-tab="business" class="active"><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.business }} </span></p>
+	                        <p data-tab="software"><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.software }} </span></p>
+	                        <p data-tab="ml"><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.machine_learning }} </span></p>
+								</div>
+								<!-- career item dates and role -->
                         <h4>
 									<span class="vertical-date"><span data-i18n="career.{{ career.date.i18n }}"> {{ career.date.detail }} </span>
 									<br/>
@@ -32,3 +48,9 @@
         </div>
     </div>
 </div>
+<script>
+	const tabChange = function(new_tab_name) {
+		$(".tab-menu > .active, .tabs > .active").removeClass("active")
+		$(".tab-menu > [data-tab='"+new_tab_name+"'], .tabs > [data-tab='"+new_tab_name+"']").addClass("active")
+	}
+</script>
