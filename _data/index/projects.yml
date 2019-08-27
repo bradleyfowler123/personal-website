@@ -42,4 +42,4 @@
 - name: Autonomous Robot
   img: /static/assets/img/project/idp.png
   video: static/assets/video/project/idp.mp4
-  desc: Our task was to build and design an autonomous guided vehicle to collect, identify and deliver different crackers to their corresponding trays. I was lead software engineer of the six person team; writing algorithms for line following, identification and control. 
+  desc: An autonomous vehicle that collects, identifies and then delivers different objects to their corresponding trays. I was lead software engineer of the six person team; writing algorithms for line following, identification and control. 

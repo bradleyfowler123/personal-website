@@ -5,9 +5,9 @@
     i18n: company_a
   desc:
     summary: Scope is bursting the filter bubble by exposing diversity of opinion on the breaking news headlines through AI.
-    business: ·	Accepted onto competitive Cambridge Judge Business School Accelerator Programme.<br/>·	Won place at finale of national competition Pitch@Palace. Pitched to senior executives and royalty at St James’s Palace.<br/>·	Acquired client for news data service with two more in the pipeline.
-    software: ·	Developed full stack; algorithms -> databases -> server -> client backend -> client frontend<br/>·	Fully implemented an Automated Deployment pipeline and a basic Automated Testing pipeline.<br/>·	Parallelised work using multi-threading through asynchronous functions.<br/>·	Developed both native mobile applications (Android, IOS) and a progressive web application.<br/>
-    machine_learning: ·	Designed and trained both Supervised and Unsupervised Learning algorithms for News Clustering, Topic Classification, Sentiment Analysis and Summarisation.<br/>·	Implemented CNN and RNN Deep Learning architectures as well as classical methods such as Random Forest.<br/>·	Deployed algorithms to the cloud using Amazon Web Services running in real time.
+    business: ·	Accepted onto competitive Cambridge Judge Business School Accelerator Programme.<br/>·	Won place at finale of national competition Pitch@Palace. Pitched to senior executives and royalty at St James’s Palace.<br/>·	Acquired client for news data service with two more in the pipeline.<br/>·	Interviewed candidates and led small team of three people.
+    software: ·	Developed full stack; algorithms -> databases -> server -> client backend -> client frontend<br/>·	Implemented an Automated Deployment and Testing pipeline inline with Agile Development Methodologies.<br/>·	Parallelised work using multi-threading through asynchronous functions.<br/>·	Developed both native mobile applications (Android, IOS) and a progressive web application.<br/>
+    machine_learning: ·	Designed and trained both supervised and unsupervised NLP algorithms for Sentiment Analysis, News Clustering, Topic Classification and Summarisation.<br/>·	Developed a word embedding using TFiDF; trained a cutting edge CNN, RNN and Random Forest Classifier.<br/>·	Deployed scalable algorithms to the cloud using Amazon Web Services running in real time.
     i18n: company_a_desc
   date:
     detail: Sep 18 - Present
@@ -23,7 +23,7 @@
   desc:
     summary: Anidium develops a wearable wrist watch to predict the presence of heart arrhythmias.
     software: ·	Developed bespoke Automated Deployment script utilising Docker for deploying to AWS’s serverless architecture, Lambda.<br/>·	Integrated cloud deployment into the IOS application along with automated push notifications.<br/>·	Utilised Agile Development methodologies and coded using OOP practices.
-    machine_learning: ·	Developed extensive pre-processing pipeline rendering a noisy, difficult dataset tractable.<br/>·	Led development of an RNN classifer to detect heart arrhythmias achieving accuracy of over 95%.<br/>·	Deployed Deep Learning algorithm to the cloud using cutting edge AWS serverless technology.
+    machine_learning: ·	Developed extensive pre-processing pipeline rendering a noisy, difficult dataset tractable.<br/>·	Researched and led the development of an RNN classifer to detect heart arrhythmias achieving accuracy of over 95%.<br/>·	Deployed Deep Learning algorithm to the cloud using cutting edge AWS serverless technology.
   date:
     detail: Jun 18 - Present
   job:
@@ -49,7 +49,7 @@
     summary: The Technology Partnership plc (TTP) is Europe's leading technology and product development company. 
     business: ·	Only intern to start a project and have it subsequently sold to a client.<br/>·	Offered full time position. 
     software: ·	Developed ML algorithm in TensorFlow to remotely detect human activity.<br/>·	Optimised methods in memory and power consumption for a serverly constrained device.<br/>·	Used Linux in both development and for production environment.</br>
-    machine_learning: ·	Developed system to identify cars from infra-red images.<br/>·	Utilised Transfer Learning and novel dataset generation methods to train a CNN with no pre-existing dataset.
+    machine_learning: ·	Researched and developed a CNN in TensorFlow to identify cars from infra-red images.<br/>·	Utilised Transfer Learning and novel dataset generation methods to train a CNN with no pre-existing dataset.
   date:
     detail: Jun 17 - Aug 17
   job:
@@ -62,7 +62,7 @@
   desc:
     summary: Cubica build cutting edge algorithms, software, and systems for processing images & video.
     software: ·	Developed on a Linux based system in Python.</br>·	Integrated ML solution into their module containerised solution using Docker.
-    machine_learning: ·	Improved the speed of their flagship computer vision product through Deep Learning.<br/>·	Designed and trained a sequence to sequence model for speech to text classification in TensorFlow.
+    machine_learning: ·	Implemented a deep learning paper on object localisation and classification within images. This significantly improved the speed of their flagship computer vision product.<br/>·	Designed and trained a sequence to sequence model for speech to text classification in TensorFlow.
   date:
     detail: Aug 17 - Sep 17
   job:
