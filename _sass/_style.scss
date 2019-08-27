@@ -13,6 +13,7 @@ button.dim {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
 }
 .row-center {
   width: fit-content;
@@ -2390,19 +2391,20 @@ body {
 	.tab-menu {
 		color: #878b92;
 		display: grid;
-		grid-gap: 5px;
+		grid-gap: 0px;
 		grid-template-columns: repeat( auto-fit, minmax(60px, 1fr) ); 
 	}
 	.tab-menu > * {
-		margin: 0 auto 8px auto;
+		padding: 0 0 8px 0;
+		margin: 0;
+		height: 100%;
 		cursor: pointer;
+		border-bottom: 1px #878b92 solid;
 	}
 	.tab-menu > .active {
-		color: #52555a;
+		color: #3385FF;
 		font-weight: bold;
-	}
-	.tab-menu ~ hr {
-		margin: 0;
+		border-bottom: 1px #3385FF solid;
 	}
 
 	.tabs > *:not(.active) {
