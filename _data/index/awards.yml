@@ -14,7 +14,7 @@
 - name:
     detail: Cambridge University
   desc:
-    detail: Awarded <b>2.i MEng BA</b> with <b>Distinction</b> in Masters Project.<br/><b>Notable Courses:</b> Probabilistic Machine Learning, Deep Learning and Structured Data, Statistical Signal Analysis, Software Engineering and Design, Practical Optimisation, Bayesian Inference.<br/><b>Masters Thesis:</b> Project aimed to help reduce the negative bias of news through using novel, cutting edge AI approaches. Used this technology as the starting point of the spin out company, Scope.
+    detail: Awarded <b>2.i MEng BA</b> with <b>Distinction</b> in Masters Project.<br/><b>Notable Courses:</b> Probabilistic Machine Learning, Deep Learning and Structured Data, Statistical Signal Analysis, Software Engineering and Design, Practical Optimisation, Bayesian Inference.<br/><b>Masters <a href="https://github.com/bradleyfowler123/documents/blob/master/Deep%20Learning%20for%20Sentiment%20Analysis%20of%20News%20Articles.pdf" target="_blank">Thesis</a>:</b> Project aimed to help reduce the negative bias of news through deep learning sentiment analysis. Created a novel architecture combining a CNN and RNN yielding good performance.
 
   date:
     detail: Oct 14 - Jun 18
