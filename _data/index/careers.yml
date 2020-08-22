@@ -1,6 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Eigen Technologies
+  desc:
+    summary: Eigen is an AI company developing state-of-the-art NLP algorithms to extract insights from client's data. 
+    machine_learning: In the process of developing some very cool exciting things for Eigen!
+  date:
+    detail: Mar 20 - Present
+  job:
+    detail: Research Scientist - NLP
+  icon: fa-briefcase
+  logo: eigen.svg
+
+- name:
     detail: Scope
     i18n: company_a
   desc:
@@ -19,36 +31,24 @@
   logo: scope.png
 
 - name:
-    detail: Anidium
+    detail: Freelance AI and Software Consultant
   desc:
-    summary: Anidium develops a wearable wrist watch to predict the presence of heart arrhythmias.
-    software: ·	Developed bespoke Automated Deployment script utilising Docker for deploying to AWS’s serverless architecture, Lambda.<br/>·	Integrated cloud deployment into the IOS application along with automated push notifications.<br/>·	Utilised Agile Development methodologies and coded using OOP practices.
+    summary: Consulted for a high tech company in the medical devices space and a legal tech startup.
+    software: ·	Developed bespoke Automated Deployment script utilising Docker for deploying to AWS’s serverless architecture, Lambda.<br/>·	Integrated cloud deployment into the IOS application along with automated push notifications.<br/>·	Utilised Agile Development methodologies and coded using OOP practices.<br/>· Developed full-stack for a responsive web app including features such as the matching algorithm, payments and in-site messaging.
     machine_learning: ·	Developed extensive pre-processing pipeline rendering a noisy, difficult dataset tractable.<br/>·	Researched and led the development of an RNN classifer to detect heart arrhythmias achieving accuracy of over 95%.<br/>·	Deployed Deep Learning algorithm to the cloud using cutting edge AWS serverless technology.
   date:
-    detail: Jun 18 - Present
+    detail: Jun 18 - Feb 20
   job:
     detail: AI and Software Consultant
   icon: fa-briefcase
-  logo: anidium.png
-
-- name:
-    detail: Legal Sphere
-  desc:
-    summary: Legal Sphere is platform connecting startups and SMEs to high quality freelance solicitors.
-    software: Developing their entire platform including features such as the matching algorithm, payments and in-site messaging.<br/>The web app can be found through logging in at <a href="https://legalsphere.co.uk">legalsphere.co.uk</a>
-  date:
-    detail: Mar 19 - Present
-  job:
-    detail: Software Consultant
-  icon: fa-briefcase
-  logo: legalsphere.png
+  logo: freelance.svg
 
 - name:
     detail: The Technology Partnership
   desc:
     summary: The Technology Partnership plc (TTP) is Europe's leading technology and product development company. 
     business: ·	Only intern to start a project and have it subsequently sold to a client.<br/>·	Offered full time position. 
-    software: ·	Developed ML algorithm in TensorFlow to remotely detect human activity.<br/>·	Optimised methods in memory and power consumption for a serverly constrained device.<br/>·	Used Linux in both development and for production environment.</br>
+    software: ·	Developed algorithm and system to remotely detect human activity.<br/>·	Optimised methods in memory and power consumption for a serverly constrained device.<br/>·	Used Linux in both development and for production environment.</br>
     machine_learning: ·	Researched and developed a CNN in TensorFlow to identify cars from infra-red images.<br/>·	Utilised Transfer Learning and novel dataset generation methods to train a CNN with no pre-existing dataset.
   date:
     detail: Jun 17 - Aug 17
