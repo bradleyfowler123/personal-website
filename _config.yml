@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-description: Bradley Fowler's bio, career history and achievements. 
+description: Bradley Fowler's bio, career history and achievements.
 keywords: Brad,Bradley,Fowler,resume,cv,bio,info,information,contact details,email,linkedin,Cambridge
 title: Bradley Fowler
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -29,16 +29,16 @@ author:  # change following line to your infomation.
       url : https://www.linkedin.com/in/bradley-fowler
   skill_icon2:
     - name: fa-envelope-o
-      url: mailto:bradley.fowler123@gmail.com 
+      url: mailto:bradley.fowler123@gmail.com
     - name: fa-facebook
       url: https://www.facebook.com/bradleyfowler123
   contact:
     - name: fa-linkedin
       url : https://www.linkedin.com/in/bradley-fowler
     - name: fa-envelope-o
-      url: mailto:bradley.fowler123@gmail.com 
+      url: mailto:bradley.fowler123@gmail.com
 
-  desc: Founder and CEO of AI News company, Scope.<br/>I specialise in Artificial Intelligence and Software with a Masters degree from the University of Cambridge in Information and Computer Engineering. I have a strong passion for business, algorithms and understanding new technology.<br/>Please feel free to reach out. I am open to opportunities, particularly those in the Machine Learning and algorithms space. I look forward to hearing from you! 
+  desc: Machine Learning Researcher at Eigen Technologies, London.<br/>I specialise in Artificial Intelligence and Software with a Masters degree from the University of Cambridge in Information and Computer Engineering. I have a strong passion for business, algorithms and understanding new technology.<br/>Please feel free to reach out. I am always open to new opportunities, particularly those in Machine Learning. I look forward to hearing from you!
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

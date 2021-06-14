@@ -3,12 +3,12 @@
 - name:
     detail: Eigen Technologies
   desc:
-    summary: Eigen is an AI company developing state-of-the-art NLP algorithms to extract insights from client's data. 
-    machine_learning: In the process of developing some very cool exciting things for Eigen!
+    summary: Eigen is an AI company developing state-of-the-art NLP algorithms to extract insights from client's data; their ML models only require 2-50 examples to train and achieve industry leading accuracy.
+    machine_learning: I have been working on everything from probabilistic graphical models, BERT based language models to graph neural networks.
   date:
     detail: Mar 20 - Present
   job:
-    detail: Research Scientist - NLP
+    detail: Machine Learning Researcher
   icon: fa-briefcase
   logo: eigen.svg
 
@@ -22,7 +22,7 @@
     machine_learning: ·	Designed and trained both supervised and unsupervised NLP algorithms for Sentiment Analysis, News Clustering, Topic Classification and Summarisation.<br/>·	Developed a word embedding using TFiDF; trained a cutting edge CNN, RNN and Random Forest Classifier.<br/>·	Deployed scalable algorithms to the cloud using Amazon Web Services running in real time.
     i18n: company_a_desc
   date:
-    detail: Sep 18 - Present
+    detail: Sep 18 - Mar 20
     i18n: company_a_date
   job:
     detail: CEO / Founder
