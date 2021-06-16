@@ -4,7 +4,7 @@
     detail: Eigen Technologies
   desc:
     summary: Eigen is an AI company developing state-of-the-art NLP algorithms to extract insights from client's data; their ML models only require 2-50 examples to train and achieve industry leading accuracy.
-    machine_learning: I have been working on everything from probabilistic graphical models, BERT based language models to graph neural networks.
+    machine_learning: I have been working on everything from probabilistic graphical models, BERT based language models to graph neural networks. My work has directly improved the core Eigen product and has been pivotal in creating new functionality such as table cell extraction. Data has been a big part of this and so I have been involved with reviewing Eigen's human annotator and data platform.
   date:
     detail: Mar 20 - Present
   job:
