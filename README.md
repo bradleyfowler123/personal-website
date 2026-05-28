@@ -177,10 +177,10 @@ git pull upstream gh-pages
 There may be merge conflicts, so be sure to fix the files that git lists if they occur. That's it!
 
 # Testing Locally
-To test your site locally, you’ll need
+To test your site locally, you'll need:
 
 - [ruby](https://www.ruby-lang.org/en/)
-- the [github-pages](https://github.com/github/pages-gem) gem
+- [bundler](https://bundler.io/)
 
 ## Installing ruby
 There are [lots of different ways to install ruby](https://www.ruby-lang.org/en/documentation/installation/).
@@ -189,26 +189,18 @@ In Mac OS X, older versions of ruby will already be installed. But I use the [Ru
 
 In Windows, use [RubyInstaller](https://rubyinstaller.org/). (In most of this tutorial, I’ve assumed you’re using a Mac or some flavor of Unix. It’s possible that none of this was usable for Windows folks. Sorry!)
 
-## Installing the github-pages gem
-Run the following command:
+## Install dependencies
+Run the following command from the repository root:
 
 ```
-gem install github-pages
-```
-
-This will install the github-pages gem and all dependencies (including [jekyll](https://jekyllrb.com/)).
-
-## Later, to update the gem, type:
-
-```
-gem update github-pages
+bundle install
 ```
 
 Testing your site locally
 To construct and test your site locally, go into the directory and type
 
 ```
-jekyll build
+bundle exec jekyll build
 ```
 
 This will create (or modify) a `_site/ directory`, containing everything from `assets/`, and then the `index.md` and all `pages/*.md` files, converted to html. (So there’ll be `_site/index.html` and the various `_site/pages/*.html.`)
@@ -216,7 +208,7 @@ This will create (or modify) a `_site/ directory`, containing everything from `a
 Type the following in order to “serve” the site. This will first run build, and so it does not need to be preceded by `jekyll build`.
 
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
 
 Now open your browser and go to `http://localhost:4000/site-name/`
