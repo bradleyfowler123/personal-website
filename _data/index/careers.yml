@@ -2,12 +2,10 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: Martian AI
+    detail: Martian
   desc:
     summary: Martian AI is a company that builds AI agents for businesses.
-    software: I have been developing everything from model benchmarking, machine learning based ranking, to developing Snorkel's Foundation Model capabilities from the ground up. I am now the tech lead for all of Snorkel's Foundation Model capabilities, a highly cross-functional area of the upmost importance to the company and our clients.
-    machine_learning: TODO
-    business: TODO
+    machine_learning: 'At Martian I have been pinoneering the space of LLM routing (ensembles over multiple models), publishing peer reviewed research such as "The Capability Frontier: Benchmarks Miss 82% of Model Performance" - ICML 2026; as well as designing the key ML abstractions for deploying Routers to production.'
   date:
     detail: Feb 25 - Present
   job:
@@ -19,13 +17,13 @@
     detail: Snorkel AI
   desc:
     summary: Snorkel AI is the data centric AI company for enterprize, making model development look and feel like software development.
-    software: I have been developing everything from model benchmarking, machine learning based ranking, to developing Snorkel's Foundation Model capabilities from the ground up. I am now the tech lead for all of Snorkel's Foundation Model capabilities, a highly cross-functional area of the upmost importance to the company and our clients.
-    machine_learning: TODO
-    business: TODO
+    machine_learning: ·	Developed RAG system for accelerated information extraction.<br/>· Researched and trained a novel unsupervised method for ranking weak predictors.<br/>· Implemeted cutting edge (non-prompt based) research papers on neural network powered autosuggest.
+    business: ·	Tech Lead for Snorkel’s largest cross-functional project, Foundation Models.<br/>·	Zero to production for major enterprise customers within 12 months.
+    software: ·	Created nightly end-to-end accuracy and speed benchmarking for our product covering over 100 scenarios.<br/>· Built out a kubernetes service for LLM inference.
   date:
     detail: Feb 22 - Feb 25
   job:
-    detail: Tech Lead - Foundation Models
+    detail: Staff Applied Research Scientist
   icon: fa-briefcase
   logo: snorkel.svg
 

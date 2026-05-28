@@ -4,7 +4,7 @@
 description: Bradley Fowler's bio, career history and achievements.
 keywords: Brad,Bradley,Fowler,resume,cv,bio,info,information,contact details,email,linkedin,Cambridge
 title: Bradley Fowler
-baseurl: / # keep empty for local development; if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+baseurl: "" # keep empty for local development; if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://bradleyfowler123.github.io/personal-website # url should be 'http://<github_username>.github.io/homepage' as before
 #url: http://localhost:4000
 img_path: /Jalpc/static/assets/img/blog # url should be '/homepage/static/assets/img/blog' as before
