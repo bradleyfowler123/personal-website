@@ -1,12 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Martian AI
+  desc:
+    summary: Martian AI is a company that builds AI agents for businesses.
+    software: I have been developing everything from model benchmarking, machine learning based ranking, to developing Snorkel's Foundation Model capabilities from the ground up. I am now the tech lead for all of Snorkel's Foundation Model capabilities, a highly cross-functional area of the upmost importance to the company and our clients.
+    machine_learning: TODO
+    business: TODO
+  date:
+    detail: Feb 25 - Present
+  job:
+    detail: Founding ML Engineer
+  icon: fa-briefcase
+  logo: martian.svg
+
 - name:
     detail: Snorkel AI
   desc:
     summary: Snorkel AI is the data centric AI company for enterprize, making model development look and feel like software development.
     software: I have been developing everything from model benchmarking, machine learning based ranking, to developing Snorkel's Foundation Model capabilities from the ground up. I am now the tech lead for all of Snorkel's Foundation Model capabilities, a highly cross-functional area of the upmost importance to the company and our clients.
+    machine_learning: TODO
+    business: TODO
   date:
-    detail: Feb 22 - Present
+    detail: Feb 22 - Feb 25
   job:
     detail: Tech Lead - Foundation Models
   icon: fa-briefcase

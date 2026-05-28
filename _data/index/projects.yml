@@ -1,6 +1,26 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Learn to Fly
+  buttons:
+    - name: Web
+      url: https://bradleyfowler123.github.io/learn-to-fly/
+    - name: GitHub
+      url: TODO
+  img: /static/assets/img/project/plane.svg
+  desc: Master your UK PPL theoretical knowledge exams with comprehensive practice tests, detailed explanations, and progress tracking across all 9 subjects.
+
+- name: Personal Finance Analyser
+  buttons:
+    - name: Web
+      url: https://finance.fowler.live
+    - name: GitHub
+      url: TODO
+  img: /static/assets/img/project/finance.svg
+  desc: Track your income, expenses, and investments to achieve financial freedom.
+
+
+
 - name: Scope
   buttons:
     - name: Android

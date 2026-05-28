@@ -9,7 +9,7 @@ languages:
       image: python.png
       size: vsmall
     - name: PyTorch
-      image: pytorch.svg
+      image: pytorch.png
       size: vsmall
     - name: TensorFlow
       image: tensorflow.png

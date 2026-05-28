@@ -4,7 +4,7 @@
 description: Bradley Fowler's bio, career history and achievements.
 keywords: Brad,Bradley,Fowler,resume,cv,bio,info,information,contact details,email,linkedin,Cambridge
 title: Bradley Fowler
-baseurl: / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+baseurl: / # keep empty for local development; if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://bradleyfowler123.github.io/personal-website # url should be 'http://<github_username>.github.io/homepage' as before
 #url: http://localhost:4000
 img_path: /Jalpc/static/assets/img/blog # url should be '/homepage/static/assets/img/blog' as before
@@ -38,7 +38,7 @@ author: # change following line to your infomation.
     - name: fa-envelope-o
       url: mailto:bradley.fowler123@gmail.com
 
-  desc: Tech Lead of Foundation Models at Snorkel AI, San Francisco.<br/>I specialize in Artificial Intelligence and Software with 7 years of experience and a Masters degree from the University of Cambridge in Information and Computer Engineering.<br/>Please feel free to reach out. I am always open to new opportunities, particularly those in Machine Learning. I look forward to hearing from you!
+  desc: Specialist in Artificial Intelligence and Software with 9 years of experience and a Masters degree from the University of Cambridge in Information and Computer Engineering. I spent the last 2 years Tech Leading in Silicon Valley and now I'm back in London to push AI forward here.<br/> Please feel free to reach out. I am always open to new opportunities, particularly those in Machine Learning. I look forward to hearing from you!
 
 # comment
 disqus: # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
