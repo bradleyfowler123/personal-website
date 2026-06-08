@@ -5,7 +5,7 @@
     detail: Martian
   desc:
     summary: Martian AI is a company that builds AI agents for businesses.
-    machine_learning: 'At Martian I have been pinoneering the space of LLM routing (ensembles over multiple models), publishing peer reviewed research such as "The Capability Frontier: Benchmarks Miss 82% of Model Performance" - ICML 2026; as well as designing the key ML abstractions for deploying Routers to production.'
+    machine_learning: 'At Martian I have been pinoneering the space of LLM routing (ensembles over multiple models), publishing peer reviewed research such as <a href="https://aifrontier.withmartian.com/" target="_blank">"The Capability Frontier: Benchmarks Miss 82% of Model Performance"</a> - ICML 2026; as well as designing the key ML abstractions for deploying Routers to production.'
   date:
     detail: Feb 25 - Present
   job:
